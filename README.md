@@ -31,3 +31,18 @@ Battleship can be imported as a python package and launched from command line. F
 >>> Battleship.start_game()
 ```
 Note: Some dependancies may need to be installed through pip3
+
+# Animations
+
+Miss:
+
+![Miss](/gifs/miss.gif)
+
+Hit:
+
+![Hit](/gifs/hit.gif)
+
+
+Sink:
+
+![Sink](/gifs/sink.gif)
