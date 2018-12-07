@@ -3,7 +3,7 @@ A text implementation of the classic table top strategy game Battleship. The gam
 
 # Installation
 
-Battleship can be installed as a Debian package and comes with a precompiled .deb file. Install:
+Battleship can be installed as a Debian package and comes with a precompiled .deb file. To install, run the .deb file:
 ```
 python3-battleship_1.0-1_all.deb
 ```
@@ -17,7 +17,7 @@ $ python3 setup.py --command-packages=stdeb.command install_deb
 
 # Launching the Game From the Debian Package
 
-Battleship can be launched from the command line after installing the Debian package:
+Battleship can be launched from the command line after installing the Debian package by running:
 ```
 $ battleship
 ```
