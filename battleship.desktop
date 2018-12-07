@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=battleship
+Comment=A guessing game where you must destroy the enemy's battleships before yours are destroyed!
+Exec=battleship
+Icon=/usr/share/icons/gnome/48x48/apps/file-manager.png
+Categories=Game;
+# desktop should run this in a terminal application
+Terminal=true
+StartupNotify=true
+StartupWMClass=battleship

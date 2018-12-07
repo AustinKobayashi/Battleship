@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Mon, 05 Nov 2018 09:53:01 -0800
+Source: battleship
+Binary: python3-battleship
+Architecture: all
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Austin Kobayashi <austinkobayashi@gmail.com>
+Changed-By: Austin Kobayashi <austinkobayashi@gmail.com>
+Description:
+ python3-battleship - Sink your enemy's ships!
+Changes:
+ battleship (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ e5c418df935488ae31cbff6a9549d43046d42793 5671 battleship_1.0-1_amd64.buildinfo
+ cba0c9bb6b9b2ee8078d7e9edad867c6148b591a 7144 python3-battleship_1.0-1_all.deb
+Checksums-Sha256:
+ 1e99fcd04dc7e9217990595e2709fb857b99668d15847d782ef887ec0b71c9be 5671 battleship_1.0-1_amd64.buildinfo
+ 59bdbc83a6d28d8d221301e8f1bdd656542bfac4ed2e2df7972fa8346b783a89 7144 python3-battleship_1.0-1_all.deb
+Files:
+ 0d37027ba41305a262f6da7147238b1a 5671 python optional battleship_1.0-1_amd64.buildinfo
+ c24b86b534d5ec20d8450c01f0af6bba 7144 python optional python3-battleship_1.0-1_all.deb

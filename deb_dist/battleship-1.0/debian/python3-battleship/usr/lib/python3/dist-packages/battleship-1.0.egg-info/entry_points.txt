@@ -1,0 +1,3 @@
+[console_scripts]
+battleship = battleship.Battleship:start_game
+
